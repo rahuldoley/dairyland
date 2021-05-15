@@ -1,0 +1,24 @@
+.card{
+    width: 300px;
+    margin-bottom: 100px;
+}
+
+.wrapper {
+    box-sizing: border-box;
+    position: relative;
+}
+
+.card_img {
+    background: contain;
+    background-position: center bottom;
+    width: 60%;
+    height: 60%;
+    transition: ease all .3s;
+}
+
+.cardInfo {
+    display: block;
+    padding: 20px 10px;
+    box-sizing: border-box;
+
+}
